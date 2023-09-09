@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+.body {
+  background-color: #99ffcc;
+}
+
+form {
+  font-family: Montserrat;
+}
+
+img {
+  width: 100px;
+  height: 100px:
+}
+
+.centerbox {
+    width: 400px;
+    border: 2px solid #404040;
+    border-radius: 50px;
+    color: #", sans-serif;
+}
+
+.button {
+    height: 60px;
+    width: 150px;
+    border: 2px solid #404040;
+    font-size: 16px;
+    font-family: Montserrat;
+    outline-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.button {
+    height: 60px;
+    width: 150px;
+    border: 2px solid #404040", sans-serif;
+}
+
+.button {
+    height: 60px;
+    width: 150px;
+    border: 2px solid #1;
+    border-radius: 50px;
+    color: #404040;
+    font-size: 16px;
+    font-family: Montserrat;
+}
